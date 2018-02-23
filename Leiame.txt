@@ -1,0 +1,5 @@
+Para usar o banco de dados Northwind:
+1) Baixe o northwind de http://tinyurl.com/northwinddb
+2) Crie ele no SQL Express, e crie as tabelas do Membership com o c:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe
+3) Desanexe ele do SQL Expresse e coloque ele no App_Data
+4) Não esqueça de acertar os valores de conexão, mudando o caminho no app.config (projeto Domain) e web.config.

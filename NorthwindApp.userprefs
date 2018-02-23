@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{682A58DF-70A2-4EE7-9177-FCC4ACAF7DA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leiame.txt">
+    <Files>
+      <File FileName="NorthwindApp.Domain/NorthwindModel.Designer.cs" Line="11" Column="32" />
+      <File FileName="Leiame.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,1 @@
+/Users/sergiopereira/projetos/MVCNCamadas/NorthwindApp.Domain/obj/Debug/NorthwindApp.Domain.csproj.CoreCompileInputs.cache
